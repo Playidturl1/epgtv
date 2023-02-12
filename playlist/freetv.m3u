@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://wacth.tv/epg/epg.xml,http://keereeboon.streaming-fast.com/TIVIMATE/guide.xml,https://dl.dropboxusercontent.com/s/x1ygaphcbtu21jy/newiptvtv.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml" url=""
+#EXTM3U url-tvg="https://wacth.tv/epg/epg.xml,http://keereeboon.streaming-fast.com/TIVIMATE/guide.xml,https://dl.dropboxusercontent.com/s/x1ygaphcbtu21jy/newiptvtv.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml" url="https://raw.githubusercontent.com/Playidturl1/epgtv/main/playlist/freetv.m3u"
 
 
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://dl.dropbox.com/s/tzqz74jvye8re6m/nbt.png?dl=0" group-title="FREETV",NBT HD
