@@ -1,7 +1,7 @@
 { 
    "name": "เพลย์ลิสต์ ทีวี",
    "author": "[อัพเดท/13/ต.ค/2023/02:55]",
-   "url": "https://playidturl1.github.io/epgtv/playlist/tvplayidtv.w3u",
+   "url": "https://playidturl1.github.io/epgtv/playlist/tvplayidtv.php",
    "image": "https://i.ibb.co/TBh69KT/icons8-link.gif",
    "epg": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml",
       "epg": "https://epg.kampung.xyz/IPTV.xml",
