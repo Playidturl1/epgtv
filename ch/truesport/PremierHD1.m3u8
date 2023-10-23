@@ -1,13 +1,4 @@
-
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:11
-#EXT-X-MEDIA-SEQUENCE:2277
-#EXTINF:9.6,
-/api.php?url=https://sport.livedoomovies.com:4432/02_PremierHD1_720p/1698038424-EDFE54B8-9B792CD4.png
-#EXTINF:10.8,
-/api.php?url=https://sport.livedoomovies.com:4432/02_PremierHD1_720p/1698038434-ED19BB2D-9B16A356.png
-#EXTINF:9.599,
-/api.php?url=https://sport.livedoomovies.com:4432/02_PremierHD1_720p/1698038445-ED343E21-9BB3047B.png
-#EXTINF:9.6,
-/api.php?url=https://sport.livedoomovies.com:4432/02_PremierHD1_720p/1698038450-1BA2FD3B-9D9A9D88.png
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+https://thai-759445a93a85.herokuapp.com/truesport1.m3u8
